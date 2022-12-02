@@ -20,7 +20,7 @@ contract fintechNFT is ERC721, ERC721Enumerable, Ownable {
     }
 
     function safeMint(address to) public payable {
-        require(totalSupply() < maxSupply_, "Max amount minted for wallet.");
+        require(totalSupply() < maxSupply_, "Max amount minted.");
         require(msg.value >= mintRate, "Not enough ether to mint.");
         _tokenIdCounter.increment();
         _safeMint(to, _tokenIdCounter.current());
