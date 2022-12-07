@@ -1,12 +1,12 @@
 
-### NFT Marketplace on Ethereum
+# NFT Marketplace on Ethereum
 
-# Contributors: Carl Mikel, Tyler Hillison, Tanner Franklin, Drew Pagnotta
+**Contributors: Carl Mikel, Tyler Hillison, Tanner Franklin, Drew Pagnotta**
 
 ---
 
-## Objective: To build an NFT Marketplace, minting smart contract, and Streamlit user interface
-## Constructors: Solidity, Streamlit, JavaScript
+### Objective: To build an NFT Marketplace, minting smart contract, and Streamlit user interface
+### Constructors: Solidity, Streamlit, JavaScript
 
 ---
 
