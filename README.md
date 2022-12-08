@@ -1,7 +1,7 @@
 
 # NFT Marketplace on Ethereum
 
-**Contributors: Carl Mikel, Tyler Hillison, Tanner Franklin, Drew Pagnotta**
+**Contributors: Tanner Franklin, Tyler Hillison, Carl Mikel, Drew Pagnotta**
 
 ---
 
