@@ -1,0 +1,10 @@
+{
+  "response": "OK",
+  "chain": "goerli",
+  "transaction_hash": "0xd0388c3936fc6959264c455a1bf89c5d96b41335d5d3926ed281eaa6a03f75c9",
+  "transaction_external_url": "https://goerli.etherscan.io/tx/0xd0388c3936fc6959264c455a1bf89c5d96b41335d5d3926ed281eaa6a03f75c9",
+  "owner_address": "0x1c10889892E78c1Fe1E90e82a756A9b7305c96DB",
+  "type": "erc721",
+  "name": "CRYPTOLOGOS",
+  "symbol": "CL"
+}
