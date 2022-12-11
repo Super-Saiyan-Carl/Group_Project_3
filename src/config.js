@@ -38,18 +38,18 @@ const extraMetadata = {
 
 // NFTPort Info
 // ** REQUIRED **
-const AUTH = "9903e0b6-6fd0-40f2-99a1-49895e86fdba";
+const AUTH = "NFTPort API Key Goes Here";
 const LIMIT = 2; // Your API key rate limit
 const CONTRACT_NAME = 'CRYPTOLOGOS';
 const CONTRACT_SYMBOL = 'CL';
 const CONTRACT_TYPE = 'erc721';
-const MINT_TO_ADDRESS = '0x1c10889892E78c1Fe1E90e82a756A9b7305c96DB';
+const MINT_TO_ADDRESS = 'Goerli Test Network Account Goes Here';
 const CHAIN = 'goerli';
 const METADATA_UPDATABLE = true; // set to false if you don't want to allow metadata updates after minting
 const ROYALTY_SHARE = 1000; // Percentage of the token price that goes to the royalty address. 100 bps = 1%
-const ROYALTY_ADDRESS = "0x1c10889892E78c1Fe1E90e82a756A9b7305c96DB"; // Address that will receive the royalty
+const ROYALTY_ADDRESS = "Goerli Test Network Account Goes Here"; // Address that will receive the royalty
 // ** OPTIONAL **
-let CONTRACT_ADDRESS = "0x83d5db30e315318adc97cf8753dfb5a3204f6099"; // If you want to manually include it
+let CONTRACT_ADDRESS = "Insert Deployed Contract Address Here"; // If you want to manually include it
 // Generic Metadata is optional if you want to reveal your NFTs
 const GENERIC = false; // Set to true if you want to upload generic metas and reveal the real NFTs in the future
 const GENERIC_TITLE = "Unknown"; // Replace with what you want the generic titles to say.
