@@ -1,0 +1,40 @@
+{
+  "metaData": {
+    "response": "OK",
+    "metadata_uri": "ipfs://bafkreicgv25oguuuluzswkkcklxuevmixabumvj2ojkudm4bpqcvzilxam",
+    "name": "Crypto Logo Generator #22",
+    "description": "Remember to replace this description",
+    "file_url": "https://ipfs.io/ipfs/bafkreibtmiw35qsunbzhl47iw3qw2pfspny7xfdmsyil7lrq4ak7het77y",
+    "external_url": "https://codecats.xyz",
+    "animation_url": null,
+    "custom_fields": {
+      "dna": "1432d3d0e9c4bfa1703c371f586f69e7a4f8337d",
+      "edition": 22,
+      "date": 1670549689393,
+      "compiler": "HashLips Art Engine - codeSTACKr Modified"
+    },
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "pink",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "Crypto logos",
+        "value": "Dogecoin",
+        "max_value": null,
+        "display_type": null
+      }
+    ]
+  },
+  "mintData": {
+    "response": "OK",
+    "chain": "goerli",
+    "contract_address": "0x83d5db30e315318adc97cf8753dfb5a3204f6099",
+    "transaction_hash": "0xdae7be4176cb6d23372d62137bfe436f228f5a1b231d158421230ae418fe9f82",
+    "transaction_external_url": "https://goerli.etherscan.io/tx/0xdae7be4176cb6d23372d62137bfe436f228f5a1b231d158421230ae418fe9f82",
+    "metadata_uri": "ipfs://bafkreicgv25oguuuluzswkkcklxuevmixabumvj2ojkudm4bpqcvzilxam",
+    "mint_to_address": "0x1c10889892E78c1Fe1E90e82a756A9b7305c96DB"
+  }
+}

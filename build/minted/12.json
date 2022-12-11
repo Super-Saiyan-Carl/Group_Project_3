@@ -1,0 +1,40 @@
+{
+  "metaData": {
+    "response": "OK",
+    "metadata_uri": "ipfs://bafkreicwqchjq6h6r2jlflbn3yeftpawvmoc5b64abygzrnrvvcvyrvtiu",
+    "name": "Crypto Logo Generator #12",
+    "description": "Remember to replace this description",
+    "file_url": "https://ipfs.io/ipfs/bafkreibrbmnqjit3b4y4qs3wl4hqeswrck3ozctb3phq7jcyzo6igmroqq",
+    "external_url": "https://codecats.xyz",
+    "animation_url": null,
+    "custom_fields": {
+      "dna": "6fa383406704abded82b26049b83d47f1868858e",
+      "edition": 12,
+      "date": 1670549689188,
+      "compiler": "HashLips Art Engine - codeSTACKr Modified"
+    },
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "orange",
+        "max_value": null,
+        "display_type": null
+      },
+      {
+        "trait_type": "Crypto logos",
+        "value": "STX",
+        "max_value": null,
+        "display_type": null
+      }
+    ]
+  },
+  "mintData": {
+    "response": "OK",
+    "chain": "goerli",
+    "contract_address": "0x83d5db30e315318adc97cf8753dfb5a3204f6099",
+    "transaction_hash": "0x9367fcba54299068dfbec80cb6eb36ce45ad6b75d75e7504b97be1b2099d3ae3",
+    "transaction_external_url": "https://goerli.etherscan.io/tx/0x9367fcba54299068dfbec80cb6eb36ce45ad6b75d75e7504b97be1b2099d3ae3",
+    "metadata_uri": "ipfs://bafkreicwqchjq6h6r2jlflbn3yeftpawvmoc5b64abygzrnrvvcvyrvtiu",
+    "mint_to_address": "0x1c10889892E78c1Fe1E90e82a756A9b7305c96DB"
+  }
+}
