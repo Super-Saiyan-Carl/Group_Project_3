@@ -1,0 +1,29 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreieoey43dyucra4wgzqgooez5sdqjrttournt2tdok2lfodwsrc7rq",
+  "name": "Crypto Logo Generator #2",
+  "description": "Remember to replace this description",
+  "file_url": "https://ipfs.io/ipfs/bafkreibutx36kb3nn44bck6sv3cqowadxt4bpkrbiyzggmc4qjgicvw3ii",
+  "external_url": "https://codecats.xyz",
+  "animation_url": null,
+  "custom_fields": {
+    "dna": "3dc8f8a9459abe96de888c6c1232923a61693402",
+    "edition": 2,
+    "date": 1670549688983,
+    "compiler": "HashLips Art Engine - codeSTACKr Modified"
+  },
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "pink",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "Crypto logos",
+      "value": "HBAR",
+      "max_value": null,
+      "display_type": null
+    }
+  ]
+}

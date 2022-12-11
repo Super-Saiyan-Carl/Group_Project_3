@@ -1,0 +1,29 @@
+{
+  "response": "OK",
+  "metadata_uri": "ipfs://bafkreianeki2kpi45cfalcha4dv4xnpj4ufejg63qp7xelwsvs6z3dcacm",
+  "name": "Crypto Logo Generator #16",
+  "description": "Remember to replace this description",
+  "file_url": "https://ipfs.io/ipfs/bafkreiadqvqrnyx4xovwbpbtjp4hujnj5jbtofll6mvjmbbg3hpmfuv4bu",
+  "external_url": "https://codecats.xyz",
+  "animation_url": null,
+  "custom_fields": {
+    "dna": "760f7e65baee1ceed1ae0d269e3b2cfa24db5391",
+    "edition": 16,
+    "date": 1670549689269,
+    "compiler": "HashLips Art Engine - codeSTACKr Modified"
+  },
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "lp",
+      "max_value": null,
+      "display_type": null
+    },
+    {
+      "trait_type": "Crypto logos",
+      "value": "EOS",
+      "max_value": null,
+      "display_type": null
+    }
+  ]
+}
