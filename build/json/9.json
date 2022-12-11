@@ -1,0 +1,23 @@
+{
+  "name": "Crypto Logo Generator #9",
+  "description": "Remember to replace this description",
+  "file_url": "https://ipfs.io/ipfs/bafkreifultctvv6krzqi44yeg2spkwfuyc2tkfbad52wxl2hvho5oa4dwm",
+  "image": "https://ipfs.io/ipfs/bafkreifultctvv6krzqi44yeg2spkwfuyc2tkfbad52wxl2hvho5oa4dwm",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "serbert"
+    },
+    {
+      "trait_type": "Crypto logos",
+      "value": "MANA"
+    }
+  ],
+  "custom_fields": {
+    "dna": "cde0589d9ca8e48439246b3c7eec7de0ab0fc968",
+    "edition": 9,
+    "date": 1670549689126,
+    "compiler": "HashLips Art Engine - codeSTACKr Modified"
+  },
+  "external_url": "https://codecats.xyz"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Crypto Logo Generator #5",
+  "description": "Remember to replace this description",
+  "file_url": "https://ipfs.io/ipfs/bafkreib42quqwrtgdnh6o6jdhrmmgsjatq62rrtc5rt42tpeseihn5bbty",
+  "image": "https://ipfs.io/ipfs/bafkreib42quqwrtgdnh6o6jdhrmmgsjatq62rrtc5rt42tpeseihn5bbty",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "sky"
+    },
+    {
+      "trait_type": "Crypto logos",
+      "value": "SAND"
+    }
+  ],
+  "custom_fields": {
+    "dna": "faa7018bfb98674280bf06c4b3801e36db8d1230",
+    "edition": 5,
+    "date": 1670549689044,
+    "compiler": "HashLips Art Engine - codeSTACKr Modified"
+  },
+  "external_url": "https://codecats.xyz"
+}

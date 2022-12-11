@@ -1,0 +1,23 @@
+{
+  "name": "Crypto Logo Generator #8",
+  "description": "Remember to replace this description",
+  "file_url": "https://ipfs.io/ipfs/bafkreieowtmvtbp6al6ekat27swuxa4r6qxhi4bbpoc5obsmrm4kwhybfm",
+  "image": "https://ipfs.io/ipfs/bafkreieowtmvtbp6al6ekat27swuxa4r6qxhi4bbpoc5obsmrm4kwhybfm",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "orange"
+    },
+    {
+      "trait_type": "Crypto logos",
+      "value": "KLAY"
+    }
+  ],
+  "custom_fields": {
+    "dna": "3a468e6ef14a9338de1e11212918ca05e6e1e63d",
+    "edition": 8,
+    "date": 1670549689105,
+    "compiler": "HashLips Art Engine - codeSTACKr Modified"
+  },
+  "external_url": "https://codecats.xyz"
+}

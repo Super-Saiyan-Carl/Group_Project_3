@@ -1,0 +1,23 @@
+{
+  "name": "Crypto Logo Generator #10",
+  "description": "Remember to replace this description",
+  "file_url": "https://ipfs.io/ipfs/bafkreiee5fobs4l524ad6sazl4ojyrk2ungr22ggsy67cczp2mel3r2mu4",
+  "image": "https://ipfs.io/ipfs/bafkreiee5fobs4l524ad6sazl4ojyrk2ungr22ggsy67cczp2mel3r2mu4",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "gr"
+    },
+    {
+      "trait_type": "Crypto logos",
+      "value": "FTM"
+    }
+  ],
+  "custom_fields": {
+    "dna": "d0d0f264cf0588b581ed5702faf4f6f06b6ef56e",
+    "edition": 10,
+    "date": 1670549689147,
+    "compiler": "HashLips Art Engine - codeSTACKr Modified"
+  },
+  "external_url": "https://codecats.xyz"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Crypto Logo Generator #4",
+  "description": "Remember to replace this description",
+  "file_url": "https://ipfs.io/ipfs/bafkreieinlkzs75msmal2nmpwux2efhg4uy4ws5nnzn6df6uvyqmakbyma",
+  "image": "https://ipfs.io/ipfs/bafkreieinlkzs75msmal2nmpwux2efhg4uy4ws5nnzn6df6uvyqmakbyma",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "gr"
+    },
+    {
+      "trait_type": "Crypto logos",
+      "value": "MIOTA"
+    }
+  ],
+  "custom_fields": {
+    "dna": "b49f22e745efe1e5708ae16066b3b270b8146759",
+    "edition": 4,
+    "date": 1670549689024,
+    "compiler": "HashLips Art Engine - codeSTACKr Modified"
+  },
+  "external_url": "https://codecats.xyz"
+}

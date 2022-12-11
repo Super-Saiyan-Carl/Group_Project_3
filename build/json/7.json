@@ -1,0 +1,23 @@
+{
+  "name": "Crypto Logo Generator #7",
+  "description": "Remember to replace this description",
+  "file_url": "https://ipfs.io/ipfs/bafkreierefiy24kwiyzxl37363xlvkvhwkjy64v5h36l7knwwufdzzw6si",
+  "image": "https://ipfs.io/ipfs/bafkreierefiy24kwiyzxl37363xlvkvhwkjy64v5h36l7knwwufdzzw6si",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "lp"
+    },
+    {
+      "trait_type": "Crypto logos",
+      "value": "Tether"
+    }
+  ],
+  "custom_fields": {
+    "dna": "212f92ee31c9d39760f8da6df105f8222e1af084",
+    "edition": 7,
+    "date": 1670549689085,
+    "compiler": "HashLips Art Engine - codeSTACKr Modified"
+  },
+  "external_url": "https://codecats.xyz"
+}

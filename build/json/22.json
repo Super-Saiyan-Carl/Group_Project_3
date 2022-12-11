@@ -1,0 +1,23 @@
+{
+  "name": "Crypto Logo Generator #22",
+  "description": "Remember to replace this description",
+  "file_url": "https://ipfs.io/ipfs/bafkreibtmiw35qsunbzhl47iw3qw2pfspny7xfdmsyil7lrq4ak7het77y",
+  "image": "https://ipfs.io/ipfs/bafkreibtmiw35qsunbzhl47iw3qw2pfspny7xfdmsyil7lrq4ak7het77y",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "pink"
+    },
+    {
+      "trait_type": "Crypto logos",
+      "value": "Dogecoin"
+    }
+  ],
+  "custom_fields": {
+    "dna": "1432d3d0e9c4bfa1703c371f586f69e7a4f8337d",
+    "edition": 22,
+    "date": 1670549689393,
+    "compiler": "HashLips Art Engine - codeSTACKr Modified"
+  },
+  "external_url": "https://codecats.xyz"
+}

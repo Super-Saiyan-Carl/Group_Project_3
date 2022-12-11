@@ -1,0 +1,23 @@
+{
+  "name": "Crypto Logo Generator #6",
+  "description": "Remember to replace this description",
+  "file_url": "https://ipfs.io/ipfs/bafkreidszhzsurwprd24wp5ldn62jqbmciqwiczeywd4wxplfstux3tekq",
+  "image": "https://ipfs.io/ipfs/bafkreidszhzsurwprd24wp5ldn62jqbmciqwiczeywd4wxplfstux3tekq",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "silver"
+    },
+    {
+      "trait_type": "Crypto logos",
+      "value": "AVAX"
+    }
+  ],
+  "custom_fields": {
+    "dna": "f5f29ba41c608030b18325588101d88f5b319014",
+    "edition": 6,
+    "date": 1670549689064,
+    "compiler": "HashLips Art Engine - codeSTACKr Modified"
+  },
+  "external_url": "https://codecats.xyz"
+}

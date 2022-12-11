@@ -1,0 +1,23 @@
+{
+  "name": "Crypto Logo Generator #24",
+  "description": "Remember to replace this description",
+  "file_url": "https://ipfs.io/ipfs/bafkreieeszjondtoedihjioip6tlcxkldb3ut6redg3e5ifz3hmoinam6i",
+  "image": "https://ipfs.io/ipfs/bafkreieeszjondtoedihjioip6tlcxkldb3ut6redg3e5ifz3hmoinam6i",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "sky"
+    },
+    {
+      "trait_type": "Crypto logos",
+      "value": "ETC"
+    }
+  ],
+  "custom_fields": {
+    "dna": "d4322752c2a9899902d1345083ecaece03dc48da",
+    "edition": 24,
+    "date": 1670549689432,
+    "compiler": "HashLips Art Engine - codeSTACKr Modified"
+  },
+  "external_url": "https://codecats.xyz"
+}
