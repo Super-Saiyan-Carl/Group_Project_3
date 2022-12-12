@@ -11,7 +11,7 @@
 ---
 
 ### Runtime instructions: 
-1. Configure NODE.js for your personal operating systems
+1. Configure NODE.js for your personal operating systems (v6.14.13 for MacOS M1 Chip)
 2. Setup & Configure NFTPort & Goerli Network Accounts
 3. Update Configs.js File for Goerli Test Network Account
 4. Run NPM Run Generate
