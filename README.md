@@ -1,25 +1,20 @@
 
-# NFT Marketplace on Ethereum
+# Crypto Logo NFT Mint & Deploy Project
 
 **Contributors: Tanner Franklin, Tyler Hillison, Carl Mikel, Drew Pagnotta**
 
 ---
 
-### Objective: To build an NFT Marketplace, minting smart contract, and Streamlit user interface
-### Constructors: Solidity, Streamlit, JavaScript
+### Objective: To mint a set amount of NFTs using a background layer, crypto logo, and rarity weights.
+### Languages & Construction: JavaScript, JSON
 
 ---
 
-(PNG build material here including screenshots, libraries, dependecies, and code blocks
-Show examples of some of the NFTs)
+Example Crypto Log NFT with Background (resized to fit appropriately):
+
+![Cotton Candy-overlay Small](https://user-images.githubusercontent.com/108194033/206962410-4eb291ea-3937-458e-af62-be0f3f5ed398.png)
 
 ---
-
-(Smart contract snipets here)
-
----
-
-(Streamlit walkthrough functionality and examples here)
 
 Original REAMDE.MD:
 # Create An ENTIRE NFT Collection (10,000+) & MINT
