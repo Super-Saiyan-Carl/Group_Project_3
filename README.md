@@ -6,7 +6,7 @@
 ---
 
 ### Objective: To mint a set amount of NFTs using a background layer, crypto logo, and rarity weights.
-### Languages & Construction: JavaScript, JSON
+### Languages, Platforms, & Construction: `JavaScript`, `Node JS`, `NFTPort`, & Ethereum Testnet `Goerli` using `.js`, `.json`, & `.png` files.
 
 ---
 
