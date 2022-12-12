@@ -11,7 +11,18 @@
 ---
 
 ### Runtime instructions: 
-1. 
+1. Configure NODE.js for your personal operating systems
+2. Setup & Configure NFTPort & Goerli Network Accounts
+3. Update Configs.js File for Goerli Test Network Account
+4. Run NPM Run Generate
+5. Run NPM Run Upload_Files
+6. Run NPM Run Upload_Metadata
+7. Run NPM Run Deploy_Contract
+8. Update Contract Address in Config.js File
+9. Run NPM Run Get_Contract
+10. Run Mint --start='#' --end='#'
+
+Enjoy your new NFTs!
 
 ---
 
